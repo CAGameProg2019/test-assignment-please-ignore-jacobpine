@@ -14,3 +14,6 @@ An example of the values output:
 13
 etc...
 ```
+
+## Resources:
+Please use the Main.js file provided and view output through the HTML file in your browser.
